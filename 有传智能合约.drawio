@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T11:30:34.186Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="yguZ5Kkj6ZrqoAXBoom_" version="12.3.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-11T11:46:59.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="K-eATIslpF-E5QYlNBQe" version="12.3.9" type="github" pages="1">
   <diagram id="JqPvzdZQA5ajRBHI8yrV" name="Page-1">
     <mxGraphModel dx="606" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,65 @@
         </mxCell>
         <mxCell id="ZfdYoAjNMy2BQfxZGGwY-19" value="单位3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZfdYoAjNMy2BQfxZGGwY-12">
           <mxGeometry x="63.5" y="220" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="1">
+          <mxGeometry x="66" y="460" width="128" height="128" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="128" height="128" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="128" height="128" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="128" height="128" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="1">
+          <mxGeometry x="670" y="460" width="128" height="128" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-25" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="115" y="620" width="47.5" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#333333;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="310" y="620" width="47.5" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139" y="568" as="sourcePoint"/>
+            <mxPoint x="330" y="568" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="189" y="518"/>
+              <mxPoint x="249" y="518"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-29" value="" style="rounded=0;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;entryX=0.578;entryY=0.859;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZfdYoAjNMy2BQfxZGGwY-25" target="ZfdYoAjNMy2BQfxZGGwY-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="740" as="sourcePoint"/>
+            <mxPoint x="120" y="690" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-31" value="读取请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ZfdYoAjNMy2BQfxZGGwY-29">
+          <mxGeometry x="-0.0812" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-30" value="读取授权" style="rounded=0;comic=1;strokeWidth=2;endArrow=blockThin;html=1;fontFamily=Comic Sans MS;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.967;exitY=0.859;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZfdYoAjNMy2BQfxZGGwY-21" target="ZfdYoAjNMy2BQfxZGGwY-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.16107024837436" y="630" as="sourcePoint"/>
+            <mxPoint x="149.98400000000004" y="579.952" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-32" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZfdYoAjNMy2BQfxZGGwY-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="610" as="sourcePoint"/>
+            <mxPoint x="220" y="420" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfdYoAjNMy2BQfxZGGwY-33" value="读取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="ZfdYoAjNMy2BQfxZGGwY-32">
+          <mxGeometry x="0.2096" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
