@@ -1,11 +1,29 @@
-<mxfile host="www.draw.io" modified="2019-12-21T07:52:35.840Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="HPHALDSlt56SkL-ElYwG" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-21T08:04:38.994Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="iyp_b5qRNQG6HFTI4JfX" version="12.4.3" type="github" pages="1">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1186" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="pRN-TT8wtIXPN9VYFTIj-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="834" width="780" height="80" as="geometry"/>
+        </mxCell>
         <mxCell id="12" value="数据存储" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="220" y="840" width="100" height="60" as="geometry"/>
+          <mxGeometry x="200" y="840" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="pRN-TT8wtIXPN9VYFTIj-56" value="通信协议" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="840" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="pRN-TT8wtIXPN9VYFTIj-57" value="共识机制" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="pRN-TT8wtIXPN9VYFTIj-58" value="隐私保护" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="560" y="840" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="pRN-TT8wtIXPN9VYFTIj-59" value="密钥管理" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="840" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="pRN-TT8wtIXPN9VYFTIj-60" value="身份管理" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="840" width="100" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
