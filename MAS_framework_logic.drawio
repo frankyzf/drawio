@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T05:58:17.080Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="5XLJ8taewnxgwfJgh4To" version="12.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T05:58:29.998Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Sqfwos3HV8Hj1pkf4FjF" version="12.9.2" type="github">
   <diagram id="swkm65_SA5ZGKqfjn4RS" name="Page-1">
     <mxGraphModel dx="788" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
             <mxPoint x="430" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P0lrBHYeqrwFTkQ5xpn6-38" value="Red Zone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="P0lrBHYeqrwFTkQ5xpn6-38" value="Red Zone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="566.13" y="495" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P0lrBHYeqrwFTkQ5xpn6-40" value="Application Zone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
