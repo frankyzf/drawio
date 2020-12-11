@@ -1,29 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T08:54:00.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="smkXh_itrRl6zaUj_7ei" version="13.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T10:11:57.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="efx8Oy-7FUCkb0SAnIzW" version="13.1.1" type="github">
   <diagram id="zmQhhe6AE2L1w1-g6Gc7" name="Page-1">
-    <mxGraphModel dx="1186" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hqJNj4d6Lm5rqd-N4q62-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="400" width="530" height="60" as="geometry" />
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-40" value="" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-33" value="" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="680" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hqJNj4d6Lm5rqd-N4q62-3" value="OS(Ubuntu 18.04)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="hqJNj4d6Lm5rqd-N4q62-4" value="mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="410" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hqJNj4d6Lm5rqd-N4q62-5" value="redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="410" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hqJNj4d6Lm5rqd-N4q62-6" value="nginx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="410" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hqJNj4d6Lm5rqd-N4q62-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="340" width="530" height="60" as="geometry" />
+          <mxGeometry x="30" y="320" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hqJNj4d6Lm5rqd-N4q62-9" value="Service" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="120" height="20" as="geometry" />
+          <mxGeometry x="30" y="260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-16" value="Function Module" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-17" value="user management &amp;amp; &lt;br&gt;security management&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="120" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-29" value="" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-30" value="IOS App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="125" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-31" value="Android App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="125" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-32" value="Web Dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="125" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-34" value="Facility Booking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="185" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-35" value="Licence Plate Recognition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="245" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-36" value="Notification" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="185" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-37" value="Remote Control" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="185" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-38" value="Carpark Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="185" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-39" value="Visitor Management" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="185" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-41" value="&lt;span&gt;Data Sync Subsystem&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="245" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-42" value="Billing Subsystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="245" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-43" value="Security Video Analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="245" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-44" value="Face Recognition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328" y="245" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-46" value="" style="rounded=1;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-47" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="305" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-48" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="305" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-50" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="305" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hqJNj4d6Lm5rqd-N4q62-52" value="Application" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
