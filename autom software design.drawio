@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T08:59:39.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Q-TBWdN5uFRkxiWcyywG" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-05T09:00:33.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7blEW4KtTziYDRVb5LyW" version="20.4.0" type="github">
   <diagram id="N7SHvFoS1xqOyX_h5PO0" name="第 1 页">
-    <mxGraphModel dx="498" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="891" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,22 +125,25 @@
           <mxGeometry x="90" y="463" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e9bAJE5MZS9uaOrdnTjE-44" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
-          <mxGeometry x="528.8000000000001" y="90" width="70" height="70" as="geometry" />
+          <mxGeometry x="528.8000000000001" y="98" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e9bAJE5MZS9uaOrdnTjE-45" value="Web Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="538.8000000000001" y="180" width="50" height="13" as="geometry" />
         </mxCell>
         <mxCell id="e9bAJE5MZS9uaOrdnTjE-46" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="329.65" y="98" width="42" height="62" as="geometry" />
+          <mxGeometry x="327.65" y="109" width="42" height="62" as="geometry" />
         </mxCell>
         <mxCell id="e9bAJE5MZS9uaOrdnTjE-47" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
-          <mxGeometry x="436.79999999999995" y="98" width="42" height="62" as="geometry" />
+          <mxGeometry x="436.79999999999995" y="108" width="42" height="62" as="geometry" />
         </mxCell>
         <mxCell id="e9bAJE5MZS9uaOrdnTjE-48" value="Android" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="432.28000000000003" y="180" width="50" height="13" as="geometry" />
         </mxCell>
         <mxCell id="e9bAJE5MZS9uaOrdnTjE-49" value="IOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="321.65000000000003" y="180" width="50" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="e9bAJE5MZS9uaOrdnTjE-50" value="App &amp;amp; Portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
