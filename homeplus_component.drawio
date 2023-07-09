@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T00:53:05.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ISyfLGGlIb0H1uKQWFqX" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T00:57:32.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LC6xiI9xgW43Dxbci7ne" version="20.4.0" type="github">
   <diagram id="4CauBeMYZ3y91vC3EO1Y" name="第 1 页">
     <mxGraphModel dx="937" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
         <mxCell id="P_13W2h9VqLOC7XOtrxH-86" value="device manage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P_13W2h9VqLOC7XOtrxH-87" value="&lt;h1&gt;Desgin Principle&lt;/h1&gt;&lt;p&gt;1. local service can work standard alone&lt;/p&gt;&lt;p&gt;2. service can be tailored based on different requirement&lt;/p&gt;&lt;p&gt;3. new service does not affect existing one&lt;/p&gt;&lt;p&gt;4. keep it as simple as possible&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="P_13W2h9VqLOC7XOtrxH-87" value="&lt;h1&gt;Desgin Principle&lt;/h1&gt;&lt;p&gt;1. local service can work standard alone without internet&lt;/p&gt;&lt;p&gt;2. service can be tailored based on different requirement&lt;/p&gt;&lt;p&gt;3. new service does not affect existing one&lt;/p&gt;&lt;p&gt;4. high availability, scalability and service auto recovery&lt;/p&gt;&lt;p&gt;4. keep it as simple as possible&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="570" width="320" height="170" as="geometry" />
         </mxCell>
         <mxCell id="P_13W2h9VqLOC7XOtrxH-88" value="monitor service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
