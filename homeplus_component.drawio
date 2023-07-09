@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T00:45:34.472Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="W4aXZ5CgsfFmeN0uyIaG" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-09T00:46:49.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HBXamB-8gUJEr-a_FXjs" version="20.4.0" type="github">
   <diagram id="4CauBeMYZ3y91vC3EO1Y" name="第 1 页">
     <mxGraphModel dx="937" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,10 +138,10 @@
         <mxCell id="P_13W2h9VqLOC7XOtrxH-47" value="sync &lt;br&gt;service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="74" y="930" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P_13W2h9VqLOC7XOtrxH-48" value="walkin manage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P_13W2h9VqLOC7XOtrxH-48" value="walkin service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="930" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="P_13W2h9VqLOC7XOtrxH-49" value="carpark manage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="P_13W2h9VqLOC7XOtrxH-49" value="carpark service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="930" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P_13W2h9VqLOC7XOtrxH-50" value="cctv &lt;br&gt;service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -151,7 +151,7 @@
           <mxGeometry x="674" y="930" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P_13W2h9VqLOC7XOtrxH-55" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="290" y="1060" width="226" height="100" as="geometry" />
+          <mxGeometry x="408" y="1060" width="226" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P_13W2h9VqLOC7XOtrxH-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P_13W2h9VqLOC7XOtrxH-55">
           <mxGeometry width="226" height="100" as="geometry" />
@@ -205,7 +205,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P_13W2h9VqLOC7XOtrxH-83" value="redis cluster" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="383" y="140" width="50" height="42" as="geometry" />
+          <mxGeometry x="449" y="60" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="P_13W2h9VqLOC7XOtrxH-86" value="device manage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
